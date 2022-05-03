@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liyuan
+- 👋 Hi, I’m @EricRosharchking
 - 👀 I’m interested in Java development, Linux related topics, DevOps practices
 - 🌱 I’m currently learning algorithms and Java 11 features, Containers and Spring topics
 - 💞️ I’m looking to collaborate on ... nothing yet
